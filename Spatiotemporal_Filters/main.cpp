@@ -1,3 +1,5 @@
+// Authors: Julian Parsert, Florian Meßner
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include <chrono>
